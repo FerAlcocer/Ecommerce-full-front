@@ -29,9 +29,20 @@ export const StyleNav = styled.nav`
 export const Bg = styled.div`
   background-color: #222;
   color: #fff;
+  padding: 50px 0;
 `;
 
 export const Title = styled.h1`
   margin: 0;
   font-weight: normal;
 `;
+
+export const Desc = styled.p`
+color: #aaa;
+font-size: .8rem;
+`
+
+export const WrapperGrid = styled.div `
+display: grid;
+grid-template-columns: 1fr 1fr
+gap: 40px`
