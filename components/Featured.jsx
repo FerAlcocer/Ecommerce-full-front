@@ -14,11 +14,11 @@ export default function Featured() {
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil,
           maiores. Accusamus voluptatibus delectus consectetur fugiat autem
           voluptates rem, ea sint, vitae nesciunt pariatur assumenda eum et
-          iusto magni corporis ullam.
+          iusto magni corporis 
         </Desc>
             </div>
             <div>
-
+<img src="" alt="" />
             </div>
         </WrapperGrid>
       </Center>
