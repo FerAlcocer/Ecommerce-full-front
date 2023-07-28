@@ -39,10 +39,18 @@ export const Title = styled.h1`
 
 export const Desc = styled.p`
 color: #aaa;
-font-size: .8rem;
+font-size: 1rem;
 `
+
 
 export const WrapperGrid = styled.div `
 display: grid;
-grid-template-columns: 1fr 1fr
-gap: 40px`
+grid-template-columns: .8fr 1.2fr;
+gap: 40px;
+img{
+  max-width: 100%
+}`
+
+export const Column = styled.div `
+display: flex;
+align-items: center`
